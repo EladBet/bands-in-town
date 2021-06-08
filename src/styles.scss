@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.module {
+  margin: 0 0 0 0;
+  overflow: hidden;
+}
+.module p {
+  margin: 0;
+}
+
+.line-clamp-10 {
+  display: -webkit-box;
+  -webkit-line-clamp: 10;
+  -webkit-box-orient: vertical;  
+}
+
+.btn-icon {
+  cursor: pointer;
+}
+
