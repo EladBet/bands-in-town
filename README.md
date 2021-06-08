@@ -1,2 +1,2 @@
 # Who's in town
-Created with CodeSandbox
+React hooks with bootstrap app that shows all the upcoming events from Bandsintown 
