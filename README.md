@@ -1,2 +1,2 @@
-# Who's in town
+# Bands in town
 React hooks with bootstrap app that shows all the upcoming events from Bandsintown 
